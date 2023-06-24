@@ -37,7 +37,7 @@ Este projeto foi desenvolvido como parte de um curso e não está aberto a contr
 
 ## Autor
 
-O projeto foi desenvolvido por [SENAI Cotia](https://www.sp.senai.br/cotia/).
+O projeto foi desenvolvido por [Edilando Saturnino](https://edilando.com/).
 
 ## Licença
 
